@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Katalog Buku</string>
+    <string name="nama_katalog">Nama Katalog</string>
+    <string name="judulBuku">Judul Buku</string>
+    <string name="penulis">Penulis Buku</string>
+    <string name="harga">Harga Buku</string>
+
+    <string-array name="judul_buku">
+        <item>Buku Ekonomi</item>
+        <item>Bahasa Inggris</item>
+        <item>Buku Fisika</item>
+        <item>Buku Geografi</item>
+        <item>Buku Pelajaran Agama Islam</item>
+        <item>Bahasa Indonesia</item>
+        <item>Buku Matematika</item>
+        <item>Buku Kimia</item>
+        <item>Pendidikan Pancasila dan Kewarganegaraan</item>
+        <item>Buku Biologi</item>
+    </string-array>
+
+    <string-array name="penulis_buku">
+        <item>Alam S.</item>
+        <item>Sarwoko</item>
+        <item>Ni Ketut Lasmi</item>
+        <item>Yasinto Sindhu dan Sunaryo</item>
+        <item>H. Muchtar</item>
+        <item>Sobandi</item>
+        <item>Untung Widodo</item>
+        <item>Soedjono</item>
+        <item>Yuyus Kardiman, dkk</item>
+        <item>Khristiyono</item>
+    </string-array>
+
+    <string-array name="harga_buku">
+        <item>Rp 65.000,-</item>
+        <item>Rp 88.000,-</item>
+        <item>Rp 62.000,-</item>
+        <item>Rp 60.000,-</item>
+        <item>Rp 87.000,-</item>
+        <item>Rp 98.000,-</item>
+        <item>Rp 60.000,-</item>
+        <item>Rp 60.000,-</item>
+        <item>Rp 65.000,-</item>
+        <item>Rp 70.000,-</item>
+    </string-array>
+
+    <string-array name="foto_buku">
+        <item>@drawable/eko</item>
+        <item>@drawable/eng</item>
+        <item>@drawable/fis</item>
+        <item>@drawable/geo</item>
+        <item>@drawable/pai</item>
+        <item>@drawable/indo</item>
+        <item>@drawable/mtk</item>
+        <item>@drawable/kim</item>
+        <item>@drawable/pkn</item>
+        <item>@drawable/bio</item>
+    </string-array>
+</resources>
